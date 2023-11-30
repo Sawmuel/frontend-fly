@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "211876928623",
+    "project_id": "fly-user",
+    "storage_bucket": "fly-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211876928623:android:52ae4fafde69bdea40819a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmjEUMGC7TIeb-IVhVACqSA7HJfJ8ebo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211876928623-3d01c9ohu7vvh84osfncj919h688uqtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211876928623:android:9910161ae0ee26bc40819a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai.xd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211876928623-k6qq66jffiq51klhkg9eqgoba010td93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.healthai.xd",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmjEUMGC7TIeb-IVhVACqSA7HJfJ8ebo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211876928623-3d01c9ohu7vvh84osfncj919h688uqtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211876928623:android:228ab4ad108ad95e40819a",
+        "android_client_info": {
+          "package_name": "com.flyparatricke.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211876928623-ukstvia1k3j65iq23kshjfdui5qladn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flyparatricke.prueba",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmjEUMGC7TIeb-IVhVACqSA7HJfJ8ebo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211876928623-o5trph7m50o2oj8bs17pn226go0hgu6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211876928623-3d01c9ohu7vvh84osfncj919h688uqtc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
